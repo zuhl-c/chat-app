@@ -1,0 +1,53 @@
+.card{
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 1rem;
+    border: transparent;
+  }
+  .chat-window{
+    height: 400px;
+    padding: 1rem;
+  }
+  .render-message{
+    background-color: springgreen;
+    width: 50%;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 1rem;
+    border: transparent;
+  }
+  .send-message{
+    width: 50%;
+    margin-left: 50%;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 1rem;
+    border: transparent;
+  }
+  #msg{
+    outline: none;
+    border:white;
+  }
+  .head{
+    background-color:springgreen;
+    height: 50px;
+    border-radius: 1rem 1rem 0rem 0rem; 
+  }
+
+  a{
+    margin-top: 5px;
+    color: white;
+    font-size: small;
+    font-weight:bold;
+    text-decoration: none;
+  }
+  
+  h6{
+    margin-top: 1rem;
+    font-size: medium;
+    color: white;
+    font-weight: bolder;
+  }
